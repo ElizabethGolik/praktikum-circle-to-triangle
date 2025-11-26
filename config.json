@@ -1,0 +1,11 @@
+{
+  "window_width": 800,
+  "window_height": 600,
+  "fps": 60,
+  "background_color": [10, 10, 20],
+  "circle_color": [0, 200, 255],
+  "triangle_color": [255, 100, 0],
+  "points_count": 200,
+  "radius": 200,
+  "animation_speed": 0.01
+}
